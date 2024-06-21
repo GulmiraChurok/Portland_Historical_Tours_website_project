@@ -1,0 +1,4 @@
+http://www.exampledomain.com/index.html
+http://www.exampledomain.com/tours.html
+http://www.exampledomain.com/reserve.html
+http://www.exampledomain.com/contact.html
